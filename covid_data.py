@@ -163,11 +163,11 @@ for i in range(0, 120, 1):
     time.sleep(0.05)
 
 
-'''st.header('Summary statistics and graphs for the given dataset')
+st.header('Summary statistics and graphs for the given dataset')
 
 pr = df.profile_report()
 
-st_profile_report(pr)'''
+st_profile_report(pr)
 
 
 
